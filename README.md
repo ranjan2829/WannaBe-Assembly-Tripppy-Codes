@@ -16,3 +16,6 @@ Assembly language gives you a peek into how computers really work! 🖥️ It's 
 Remember, this is just for a bit of learning and some small-time fun. It's not about creating big, complicated projects. So, relax and enjoy the journey into low-level programming! 🚀
 
 Happy Coding! 👩‍💻👨‍💻
+
+![image](https://github.com/user-attachments/assets/96d570b0-b8ad-409b-8810-a88dc99a901a)
+
